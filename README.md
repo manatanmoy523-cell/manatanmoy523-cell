@@ -75,6 +75,6 @@
 
 📧 Email: manatanmoy523@gmail.com
 
-🌐 Portfolio: https://yourportfolio.com
+🌐 Portfolio: https://tanmoy-mana.netlify.app
 
 ---
